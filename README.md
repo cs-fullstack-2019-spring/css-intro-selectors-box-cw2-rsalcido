@@ -1,3 +1,6 @@
+### 0 POINTS
+### KEY: Incomplete or no submission
+
 # CSS Intro to Selectors and Box Model
 
 ### Exercise 1:
